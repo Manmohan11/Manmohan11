@@ -37,7 +37,7 @@ I enjoy creating projects that combine automation with reliability, and I share 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manmohan11&hide_border=true" alt="GitHub streak" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Manmohan11&theme=dracula" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/Manmohan11" alt="Contribution chart" />
 </p>
 
 ---
