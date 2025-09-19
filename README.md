@@ -28,20 +28,26 @@ I enjoy creating projects that combine automation with reliability, and I share 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Stats (2×2)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manmohan11&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manmohan11&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manmohan11&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manmohan11&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Manmohan11&show_icons=true&hide_border=true&theme=react" width="360" alt="GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manmohan11&layout=compact&hide_border=true&theme=react" width="360" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manmohan11&hide_border=true" width="360" alt="GitHub streak" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/Manmohan11?label=GitHub%20Stars&style=for-the-badge" width="360" alt="GitHub stars" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,7 +62,21 @@ I enjoy creating projects that combine automation with reliability, and I share 
 
 ## 📫 Connect With Me
 
-- **GitHub:** [Manmohan11](https://github.com/Manmohan11)  
-- **LinkedIn:** [Manmohan Dwivedi](https://www.linkedin.com/in/manmohandwivedi/)  
-- **Resume:** [Resume PDF](./Manmohan-Dwivedi-DevOps.pdf)  
-- **Email:** manmohandwivedi11@gmail.com
+<p align="left">
+  <a href="https://github.com/Manmohan11" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-@Manmohan11-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/manmohandwivedi/" alt="LinkedIn" style="margin-left:8px">
+    <img src="https://img.shields.io/badge/LinkedIn-Manmohan%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="./Manmohan-Dwivedi-DevOps.pdf" alt="Resume" style="margin-left:8px">
+    <img src="https://img.shields.io/badge/Resume-PDF-007ACC?style=for-the-badge&logo=adobereader" />
+  </a>
+  <a href="mailto:manmohandwivedi11@gmail.com" alt="Email" style="margin-left:8px">
+    <img src="https://img.shields.io/badge/Email-manmohandwivedi11@gmail.com-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+*Ready to collaborate, learn, and build reliable systems. Let’s automate something boring and beautiful.*
